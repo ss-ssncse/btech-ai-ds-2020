@@ -1,6 +1,6 @@
-* <<<PE304>>> DEEP LEARNING
+* <<<S1>>> English
 :properties:
-:author: Mr. B. Senthil Kumar and Dr. D. Thenmozhi
+:author: Dr Thiruvenkataswami
 :date: 
 :end:
 
