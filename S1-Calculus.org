@@ -1,6 +1,6 @@
-* <<<S1>>> English
+* <<<S1>>> Calculus
 :properties:
-:author: Dr Thiruvenkataswami
+:author: Dr. P. Venugopal and Dr. R S Milton
 :date: 
 :end:
 
