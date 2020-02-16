@@ -15,41 +15,48 @@ NIL
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- course objective 1
-- course objective 2
+- To develop intuitions about quantities and relationships in general and probability and statistics specifically
+- To learn the ideas of reproducible research and reporting of statistical analyses
+- To critically evaluate statistical information 
+- To learn graphical and modeling techniques for exploring data, with an emphasis on visualization, interpretation. 
+- To learn how to use of modern software tools for data manipulation and visualization
+
+{{{unit}}}
+|UNIT I|Introduction to Statistical Analysis|9| 
+Overview of statistical analysis - Variable Classification - Review of Probability - Multivariate distributions - Sampling distributions - Common distributions - Introduction to R - R Nuts and Bolts
+
+{{{unit}}}
+|UNIT II|Styles of Data Analysis|9| 
+Revealing views of the data  - Data summary - Statistical analysis questions, aims, and strategies  - Exploiting the linear model framework - Survival Analysis - Time Series models
 
 
 {{{unit}}}
-|UNIT I|TITLE|9| 
-
-
-{{{unit}}}
-|UNIT II|TITLE|9| 
-
+|UNIT III|Exploratory Data Analysis|9| 
+Univariate non-graphical EDA - Univariate graphics EDA - Multivariate non-graphical EDA - Multivariate graphical EDA - R Programming: Getting data in and out - Managing data frames - control structures - Functions - Loop Functions
 
 {{{unit}}}
-|UNIT III|TITLE|10| 
-
-
-{{{unit}}}
-|UNIT IV|TITLE|8| 
+|UNIT IV|Regression|9| 
+Linear regression: basics - fitting the model - Logistic regression - Generalized Linear models - Multilevel structures – Multilevel linear models - Multilevel logistic regression – Multilevel
+generalized linear models - R Programming - Regression Packages
 
 {{{unit}}}
-|UNIT V|TITLE|9| 
-
-
+|UNIT V|Data Visualization|9| 
+Designing Data Visualization - creating visualizations using ggplot2 - Interactive visualization using R - Dynamic reports with R Markdown - Interactive Web Application using Shiny
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Course Outcomes 1 (<Knowledg Level No>K3) 
-- Course Outcomes 2 (<Knowledg Level No>K3)
-- Course Outcomes 3 (<Knowledg Level No>K3)
-- Course Outcomes 4 (<Knowledg Level No>K3)
-- Course Outcomes 5 (<Knowledg Level No>K3)
+- Understand and apply Statistical Analysis using R programming (K3)
+- Exploiting data analysis for graphical and non-graphical data (K3)
+- Apply and analyze regression models (K4)
+- Understand styles of data analysis (K2)
+- uild and Apply data visualization using R tool (K4)
 
 ** TEXT BOOKS
-    
-
-** REFERENCES
+1. Andrew Gelman and Jennifer Hill, "Data Analysis using Regression and multilevel/Hierarchical Models", Cambridge University Press, 2006. (Unit I, IV)
+2. John Maindonald and W. John Braun, "Data Analysis and Graphics Using R: An Example-
+based Approach", Third Edition, Cambridge University Press, 2010. (Unit II)
+3. Howard J. Seltman, "Experimental Design and Analysis", 2009 (Unit III)
+4. Roger D Peng, " R Programming for Data Science", LeanPub, 2016 (Unit I, III)
+5. Michael Freeman, Joel Ross, "Programming Skills for Data Science", Pearson India, 1st Edition, 2020 (Unit V)
