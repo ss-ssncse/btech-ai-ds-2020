@@ -55,8 +55,7 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 1. Andrew Gelman and Jennifer Hill, "Data Analysis using Regression and multilevel/Hierarchical Models", Cambridge University Press, 2006. (Unit I, IV)
-2. John Maindonald and W. John Braun, "Data Analysis and Graphics Using R: An Example-
-based Approach", Third Edition, Cambridge University Press, 2010. (Unit II)
+2. John Maindonald and W. John Braun, "Data Analysis and Graphics Using R: An Example-based Approach", Third Edition, Cambridge University Press, 2010. (Unit II)
 3. Howard J. Seltman, "Experimental Design and Analysis", 2009 (Unit III)
 4. Roger D Peng, " R Programming for Data Science", LeanPub, 2016 (Unit I, III)
 5. Michael Freeman, Joel Ross, "Programming Skills for Data Science", Pearson India, 1st Edition, 2020 (Unit V)
