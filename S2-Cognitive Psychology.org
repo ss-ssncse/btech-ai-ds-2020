@@ -7,7 +7,6 @@
 #+startup: showall
 #+begin_comment
 This version uploaded by RK. Course outcomes - should they be rewritten to match the units?
-
 #+end_comment
 
 
@@ -20,8 +19,7 @@ This version uploaded by RK. Course outcomes - should they be rewritten to match
 - To  scientifically study the mind
 - To understand how   cognition plays central role in our everyday lives
 - To study and understand Attention and Perception, Learning and Memory, and Higher Cognitive Function.  
-- To carry out several demonstration experiments from the on-line MindTap/CogLab library and participate in class polls and discussions.   
-
+- To carry out several demonstration experiments from the on-line MindTap/CogLab library and participate in class polls and discussions. 
 
 {{{unit}}}
 |UNIT I|Cognition and Intelligence |3| 
@@ -36,6 +34,7 @@ Cognitive Neuroscience: Neurons: Basic Principles - Representation by Neural Fir
 Perception: Basic concepts - From Sensation to Representation - Approaches to Perception: Perception of Objects and Forms - Recognizing Patterns and Faces - Deficits in Perception
 Attention: The Nature of Attention and Consciousness - Selective Attention and Divided Attention - Investigating Divided Attention in the Lab - Neuroscience and Attention: A Network Model. Intelligence and Attention - Attention Deficit Hyperactivity Disorder (ADHD)
 Automatic and Controlled Processes in Attention
+
 {{{unit}}}
 |UNIT IV|Memory|7| 
 Memory: Modal model, Sensory, Short term memory: working, storage – Long term memory: Episodic and semantic -  Encoding – Effective studying – retrieval and consolidation – Mental representation of knowledge - Memory errors: misinformation effect
