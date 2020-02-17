@@ -56,7 +56,7 @@ Introduction -- Frequentist Approach -- Measuring the Variability in Estimates: 
 
 {{{unit}}}
 |UNIT V | MACHINE LEARNING | 10 |
-Supervised Learning: Introduction; Regression analysis:Linear regression -- Logistic regression;  Unsupervised Learning : Introduction -- Clustering.
+Supervised Learning: Introduction -- kNN classifier; Regression analysis:Linear regression -- Logistic regression;  Unsupervised Learning : Introduction -- Clustering; Evaluation metrics.
 
 
 \hfill *Total Periods: 45*
