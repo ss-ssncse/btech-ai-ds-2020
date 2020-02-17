@@ -6,49 +6,64 @@
 
 #+startup: showall
 #+begin_comment
-NIL
+This version uploaded by RK. Course outcomes - should they be rewritten to match the units?
+
 #+end_comment
 
 
 {{{credits}}}
 |L|T|P|C|
-|3|0|0|3|
+|2|0|0|2|
 
 ** COURSE OBJECTIVES
-- course objective 1
+ 
+- To  scientifically study the mind
+- To understand how   cognition plays central role in our everyday lives
+- To study and understand Attention and Perception, Learning and Memory, and Higher Cognitive Function.  
+- To carry out several demonstration experiments from the on-line MindTap/CogLab library and participate in class polls and discussions.   
 
 
 {{{unit}}}
-|UNIT I|TITLE|9| 
-
-
-{{{unit}}}
-|UNIT II|TITLE|9| 
-
+|UNIT I|Cognition and Intelligence |3| 
+Introduction: Studying the mind – Evolution – Cognition and Intelligence – Research methods in Cognitive Psychology
 
 {{{unit}}}
-|UNIT III|TITLE|10| 
-
-
-{{{unit}}}
-|UNIT IV|TITLE|8| 
+|UNIT II|Cognitive Neuroscience |6| 
+Cognitive Neuroscience: Neurons: Basic Principles - Representation by Neural Firing - Localized Representation - Distributed Representation - Neural Networks
 
 {{{unit}}}
-|UNIT V|TITLE|9| 
+|UNIT III|Perception and Attention|8| 
+Perception: Basic concepts - From Sensation to Representation - Approaches to Perception: Perception of Objects and Forms - Recognizing Patterns and Faces - Deficits in Perception
+Attention: The Nature of Attention and Consciousness - Selective Attention and Divided Attention - Investigating Divided Attention in the Lab - Neuroscience and Attention: A Network Model. Intelligence and Attention - Attention Deficit Hyperactivity Disorder (ADHD)
+Automatic and Controlled Processes in Attention
+{{{unit}}}
+|UNIT IV|Memory|7| 
+Memory: Modal model, Sensory, Short term memory: working, storage – Long term memory: Episodic and semantic -  Encoding – Effective studying – retrieval and consolidation – Mental representation of knowledge - Memory errors: misinformation effect
+
+{{{unit}}}
+|UNIT V|Problem Solving and Decision Making|6| 
+Problem solving: Types -  Obstacles and aids - Creativity and brain – Judgement, Reasoning and decision making. 
+ Applications of Cognitive Psychology
 
 
-
-\hfill *Total Periods: 45*
+\hfill *Total Periods: 30*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Course Outcomes 1 (<Knowledg Level No>K3) 
+- To understand mind scientifically and cognition (<K2>) 
 - Course Outcomes 2 (<Knowledg Level No>K3)
 - Course Outcomes 3 (<Knowledg Level No>K3)
 - Course Outcomes 4 (<Knowledg Level No>K3)
 - Course Outcomes 5 (<Knowledg Level No>K3)
+- Analyze, evaluate, and compare major theories in cognitive psychology and relate new experimental results to these theories. 
+- Critically evaluate the quality of cognitive methods and formulate logical arguments on the basis of theoretical or empirical analyses.
+- Understand  strengths and weaknesses of these methods, and how these methods are being integrated with neuroscience to further our understanding of how the mind and brain function.
+- Explain some of the broader implications of cognitive research for society. 
 
 ** TEXT BOOKS
-    
-
+    Robert Sternberg, Karin Sternberg, Cognitive Psychology 6th edition, Wadsworth, 2012
+Goldstein, B. Cognitive Psychology: Connecting Mind, Research and Everyday Experience, 5th Edition. Wadsworth Cengage Learning. 2018
 ** REFERENCES
+Kosslyn, S. & Rosenberg, R. Introducing Psychology: Brain, Person, Group (4th edition).  Pearson Learning Solutions, 2011
+ Cognition, 8th Edition by Margaret W. Matlin  
+ The Scientist in the Crib: What Early Learning Tells Us About the Mind. New York: William Morrow Paperbacks. Iyengar, S. S. (2011).
