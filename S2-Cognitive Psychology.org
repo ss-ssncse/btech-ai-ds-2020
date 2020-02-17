@@ -16,7 +16,6 @@ NIL
 
 ** COURSE OBJECTIVES
 - course objective 1
-- course objective 2
 
 
 {{{unit}}}
