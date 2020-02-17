@@ -6,7 +6,8 @@
 
 #+startup: showall
 #+begin_comment
-NIL
+Uploaded by RK
+Should it be based on C or Python or Java?
 #+end_comment
 
 
@@ -15,27 +16,40 @@ NIL
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- course objective 1
-- course objective 2
+- To understand the concepts of ADT
+- To comprehend the notion of linearand nonlineardatastructures
+- To design suitable datastructures for different problems andimplement themin a high
+- level programming language
+- To understand the different typesof searching and sorting techniques
+- To learn the introductory concepts of hashing techniques.
 
 
 {{{unit}}}
-|UNIT I|TITLE|9| 
+|UNIT I|LINEAR DATA STRUCTURES – LIST|10| 
+Algorithm Analysis: Running time calculations; Abstract Data Types (ADTs); List ADT: Array
+implementation of lists – Linked lists – Circular linked lists – Doubly linked lists – Applications of Lists: Polynomial manipulation.
+
+{{{unit}}}
+|UNIT II|LINEAR DATA STRUCTURES – STACKS AND QUEUES|8| 
+Stack ADT: Stack model – Implementation of stacks – Applications: Balancing symbols – Infix
+to postfix conversion – Evaluating postfix expressions; Queue ADT: Queue model – Array
+implementation of queues – Applications of queues.
 
 
 {{{unit}}}
-|UNIT II|TITLE|9| 
-
-
-{{{unit}}}
-|UNIT III|TITLE|10| 
-
+|UNIT III|NONLINEAR DATA STRUCTURES – TREES|9| 
+Preliminaries: Implementation of trees – Tree traversals with an application; Binary trees:
+Expression trees; Binary search tree ADT; AVL trees; BTrees; Priority Queues: Binary heap.
 
 {{{unit}}}
-|UNIT IV|TITLE|8| 
-
+|UNIT IV|NONLINEAR DATA STRUCTURES – GRAPHS|9| 
+Graph Algorithms: Definitions – Representation of graphs; Graph Traversals: Breadth first
+traversal – Depth first traversal; Topological sort – Shortest Path Algorithms: Dijkstra’s
+algorithm – All pairs shortest path.
 {{{unit}}}
-|UNIT V|TITLE|9| 
+|UNIT V|SEARCHING, SORTING AND HASHING TECHNIQUES|9| 
+Searching: Linear search – Binary search; Sorting: Selection sort – Merge sort; Hashing: Hash
+function – Separate chaining – Open addressing – Rehashing – Extendible hashing.
 
 
 
@@ -43,13 +57,26 @@ NIL
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Course Outcomes 1 (<Knowledg Level No>K3) 
-- Course Outcomes 2 (<Knowledg Level No>K3)
-- Course Outcomes 3 (<Knowledg Level No>K3)
-- Course Outcomes 4 (<Knowledg Level No>K3)
-- Course Outcomes 5 (<Knowledg Level No>K3)
+- Elucidate and implement various operations of List (K3)
+- Develop applications using stack and queue (K3)
+- Implement the operations of balanced and unbalanced trees (K3)
+- Develop applications using shortest path and traversal algorithms of graph(K3)
+- Choose suitable searching and sorting algorithms to solve various computing problems
+(K4) 
 
 ** TEXT BOOKS
-    
+1.    M A Weiss, “DataStructures andAlgorithm Analysis in C”, 2nd Edition, Pearson
+Education, 2002.
+2. RichardF Gilberg,Behrouz A Frouzan, “DataStructures: A Pseudocode Approach with
+C”, 2nd Edition,Cengage India,2007.
 
 ** REFERENCES
+1. V Aho,J E Hopcroft, J D Ullman,“Data Structures and Algorithms”, Pearson Education,
+1st Edition Reprint, 2003.
+2. R F Gilberg,B A Forouzan, “Data Structures”, 2nd Edition,Thomson India Edition,2005.
+3. Ellis Horowitz, SartajSahni,Susan Anderson Freed, “Fundamentals of Data Structures in
+C”, 2nd Edition,University Press, 2008.
+4. S Sridhar, “Design and Analysis of Algorithms “, 1st Edition,OxfordUniversityPress,
+2014.
+5. Byron Gottfried, Jitender Chhabra, “Programming with C” (Schaum’s Outline Series),
+3rd Edition,McGrawHill Higher Education, 2010.
