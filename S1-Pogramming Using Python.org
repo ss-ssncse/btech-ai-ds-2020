@@ -21,23 +21,22 @@ NIL
 -  To perform input output opeations on files
 -  To explore essential Python libraries
 
-{{{unit}}}
 |UNIT I|DATA, EXPRESSION, STATEMENT, CONDITIONAL|9| 
 
 Data and types: int, float, boolean, string, list; variables, expressions,statements, simultaneous assignment, precedence of operators; comments; in-builtmodules and functions; Conditional: boolean values and operators, conditional (if), alternative (if-else), case analysis (if-elif-else). 
-{{{unit}}}
+
 |UNIT II|ITERATION, FUNCTION, STRINGS|9| 
 
 Iteration: while, for, break, continue, pass; Functions: function definition, function call, flow of execution, parameters and arguments, return values, local and global scope, recursion; Strings: string slices, immutability, string functions and methods, string module. 
-{{{unit}}}
+
 |UNIT III|LISTS, TUPLES|9| 
 
 Lists: list operations, list slices, list methods, list loop, mutability, aliasing, cloning lists, list parameters, nested lists, list comprehension; Tuples: tuple assignment, tuple as return value, tuple operations. 
-{{{unit}}}
+
 |UNIT IV|DICTIONARIES, FILES |9| 
 
 Dictionaries: operations and methods, looping and dictionaries, reverse lookup, dictionaries and lists; Files: Text files, reading and writing files, format operator, file names and paths; command line arguments. 
-{{{unit}}}
+
 |UNIT V|PYTHON LIBRARIES|9| 
 
 Essential Python libraries: NumPy, pandas, matplotlib, IPython and Jupyter, SciPy, scikit-learn, statsmodels. NumPy Basics: Arrays and Vectorized Computation; Introduction to pandas Data Structures:  Series, DataFrame, Index Objects, Essential Functionality; Matplotlib Basics
@@ -47,11 +46,11 @@ Essential Python libraries: NumPy, pandas, matplotlib, IPython and Jupyter, SciP
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand and develop simple Python programs using conditionals and loops(<K2>)
-- Decompose a program into functions(<K3>) 
-- Represent compound data using Python lists, tuples, dictionaries(<K2>)
-- Perform input/output with files(<K3>)
-- Analyse data using Python libraries (<K3>) 
+- Understand and develop simple Python programs using conditionals and loops(K2)
+- Decompose a program into functions(K3) 
+- Represent compound data using Python lists, tuples, dictionaries(K2)
+- Perform input/output with files(K3)
+- Analyse data using Python libraries (K3) 
 
 
 ** TEXT BOOKS
