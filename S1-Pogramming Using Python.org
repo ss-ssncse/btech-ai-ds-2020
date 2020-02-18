@@ -65,3 +65,9 @@ After the completion of this course, students will be able to:
 4. Kenneth  A.  Lambert,  Fundamentals  of  Python:  First  Programs,  CENGAGE    Learning, 2012.
 5. Charles  Dierbach,  Introduction  to  Computer  Science using  Python:  A  Computational Problem-Solving Focus, Wiley India Edition, 2013. 
 6. Paul Gries, Jennifer Campbell and Jason Montojo, Practical Programming:An  Introduction  to Computer Science using Python 3, Second edition, Pragmatic Programmers, LLC, 2013. 
+
+#+start_comment
+RSM: how about making this book the primary text? This is a well written text, specifically written to teach scientfic programming to multi-disciplinary students?
+A Primer on ScientificProgramming with Python
+Hans Petter Langtangen
+#+end_comment
