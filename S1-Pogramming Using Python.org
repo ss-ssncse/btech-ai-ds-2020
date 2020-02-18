@@ -27,17 +27,14 @@ NIL
 |UNIT I|DATA, EXPRESSION, STATEMENT, CONDITIONAL|9| 
 
 Data and types: int, float, boolean, string, list; variables, expressions,statements, simultaneous assignment, precedence of operators; comments; in-builtmodules and functions; Conditional: boolean values and operators, conditional (if), alternative (if-else), case analysis (if-elif-else). 
-
 {{{unit}}}
 |UNIT II|ITERATION, FUNCTION, STRINGS|9| 
 
 Iteration: while, for, break, continue, pass; Functions: function definition, function call, flow of execution, parameters and arguments, return values, local and global scope, recursion; Strings: string slices, immutability, string functions and methods, string module. 
-
 {{{unit}}}
 |UNIT III|LISTS, TUPLES|9| 
 
 Lists: list operations, list slices, list methods, list loop, mutability, aliasing, cloning lists, list parameters, nested lists, list comprehension; Tuples: tuple assignment, tuple as return value, tuple operations. 
-
 {{{unit}}}
 |UNIT IV|DICTIONARIES, FILES |9| 
 
