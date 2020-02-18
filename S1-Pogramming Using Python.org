@@ -55,8 +55,7 @@ After the completion of this course, students will be able to:
 
 
 ** TEXT BOOKS
-1. Allen B. Downey, Think Python: How to Think Like a Computer Scientist, 2nd Edition, Updated for Python 3,   Shroff/O’Reilly Publishers, 2016.
-(http://greenteapress.com/wp/think-python/) 
+1. Allen B. Downey, Think Python: How to Think Like a Computer Scientist, 2nd Edition, Updated for Python 3,   Shroff/O’Reilly Publishers, 2016. (http://greenteapress.com/wp/think-python/) 
 2. Wes McKinney, Python for Data Analysis, Second Edition, O'Reilly Media, Inc., 2017
 
 ** REFERENCES
