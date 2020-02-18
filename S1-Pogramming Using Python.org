@@ -21,8 +21,6 @@ NIL
 -  To perform input output opeations on files
 -  To explore essential Python libraries
 
-
-
 {{{unit}}}
 |UNIT I|DATA, EXPRESSION, STATEMENT, CONDITIONAL|9| 
 
