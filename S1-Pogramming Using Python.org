@@ -1,6 +1,6 @@
 * <<<S1>>> Introduction to Programming Using Python
 :properties:
-:author: Dr J Bhuvana
+:author: Dr J Bhuvana , Dr. B. Bharathi
 :date: 
 :end:
 
@@ -15,41 +15,58 @@ NIL
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- course objective 1
-- course objective 2
+-  To develop simple Python programs using conditional statements
+-  To develop programs in Python using iteration and recursion 
+-  To construct programs in Python using functions 
+-  To perform input output opeations on files
+-  To explore essential Python libraries
 
-
-{{{unit}}}
-|UNIT I|TITLE|9| 
-
-
-{{{unit}}}
-|UNIT II|TITLE|9| 
 
 
 {{{unit}}}
-|UNIT III|TITLE|10| 
+|UNIT I|DATA, EXPRESSION, STATEMENT, CONDITIONAL|9| 
 
-
-{{{unit}}}
-|UNIT IV|TITLE|8| 
+Data and types: int, float, boolean, string, list; variables, expressions,statements, simultaneous assignment, precedence of operators; comments; in-builtmodules and functions; Conditional: boolean values and operators, conditional (if), alternative (if-else), case analysis (if-elif-else). 
 
 {{{unit}}}
-|UNIT V|TITLE|9| 
+|UNIT II|ITERATION, FUNCTION, STRINGS|9| 
 
+Iteration: while, for, break, continue, pass; Functions: function definition, function call, flow of execution, parameters and arguments, return values, local and global scope, recursion; Strings: string slices, immutability, string functions and methods, string module. 
+
+{{{unit}}}
+|UNIT III|LISTS, TUPLES|9| 
+
+Lists: list operations, list slices, list methods, list loop, mutability, aliasing, cloning lists, list parameters, nested lists, list comprehension; Tuples: tuple assignment, tuple as return value, tuple operations. 
+
+{{{unit}}}
+|UNIT IV|DICTIONARIES, FILES |9| 
+
+Dictionaries: operations and methods, looping and dictionaries, reverse lookup, dictionaries and lists; Files: Text files, reading and writing files, format operator, file names and paths; command line arguments. 
+{{{unit}}}
+|UNIT V|PYTHON LIBRARIES|9| 
+
+Essential Python libraries: NumPy, pandas, matplotlib, IPython and Jupyter, SciPy, scikit-learn, statsmodels. NumPy Basics: Arrays and Vectorized Computation; Introduction to pandas Data Structures:  Series, DataFrame, Index Objects, Essential Functionality; Matplotlib Basics
 
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Course Outcomes 1 (<Knowledg Level No>K3) 
-- Course Outcomes 2 (<Knowledg Level No>K3)
-- Course Outcomes 3 (<Knowledg Level No>K3)
-- Course Outcomes 4 (<Knowledg Level No>K3)
-- Course Outcomes 5 (<Knowledg Level No>K3)
+- Understand and develop simple Python programs using conditionals and loops(<K2>)
+- Decompose a program into functions(<K3>) 
+- Represent compound data using Python lists, tuples, dictionaries(<K2>)
+- Perform input/output with files(<K3>)
+- Analyse data using Python libraries (<K3>) 
+
 
 ** TEXT BOOKS
-    
+1. Allen B. Downey, Think Python: How to Think Like a Computer Scientist, 2nd Edition, Updated for Python 3,   Shroff/O’Reilly Publishers, 2016.
+(http://greenteapress.com/wp/think-python/) 
+2. Wes McKinney, Python for Data Analysis, Second Edition, O'Reilly Media, Inc., 2017
 
 ** REFERENCES
+1. John  V  Guttag,  Introduction  to  Computation  and  Programming  Using  Python,  Revised and expanded Edition, MIT Press, 2013. 
+2. Robert  Sedgewick,  Kevin  Wayne,  Robert  Dondero,  Introduction  to  Programming  in Python:  An  Inter-disciplinary  Approach,  Pearson  India  Education  Services  Pvt.  Ltd., 2016. 
+3.Timothy A. Budd, Exploring Python, McGraw Hill Education (India) Private Ltd., 2015. 4.Kenneth  A.  Lambert,  Fundamentals  of  Python:  First  Programs,  CENGAGE    Learning, 2012.
+5.Charles  Dierbach,  Introduction  to  Computer  Science using  Python:  A  Computational Problem-Solving Focus, Wiley India Edition, 2013. 
+6. Paul Gries, Jennifer Campbell and Jason Montojo, Practical Programming:An  Introduction  to Computer Science using Python 3, Second edition, Pragmatic Programmers, LLC, 2013. 
