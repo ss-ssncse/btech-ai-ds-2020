@@ -1,4 +1,4 @@
-* <<<S2>>> Exploratory Data Analysis
+* <<<S3>>> Exploratory Data Analysis
 :properties:
 :author:  Dr Suresh J and Dr R Priyadharshini
 :date: 
