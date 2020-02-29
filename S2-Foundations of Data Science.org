@@ -1,4 +1,4 @@
- <<<S1>>> Foundations of Data Science 
+ <<<S2>>> Foundations of Data Science 
 :properties:
 :author: Dr. T. T. Mirnalinee and Ms. S. Rajalakshmi
 :date: 
